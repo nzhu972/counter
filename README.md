@@ -1,4 +1,4 @@
-# Basic web app to test session replication and sticky session in Red Hat JBoss EAP 8.x 
+# Basic web app to test session replication and sticky session in Red Hat JBoss EAP 7.x / EE8
 
 Usage
 

@@ -13,15 +13,15 @@ import java.io.*;
 import java.net.*;
 import java.util.ResourceBundle;
 
-import jakarta.servlet.*;
-import jakarta.servlet.http.*;
+import javax.servlet.*;
+import javax.servlet.http.*;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 /**
  *
- * @author
+ * @author  Stan Silvert
  */
 public class CounterServlet extends HttpServlet {
     public static final Logger LOG = LogManager.getLogger(CounterServlet.class);

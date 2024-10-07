@@ -4,7 +4,7 @@ Usage
 
 1- Clone project:
 ~~~
-git clone https://github.com/nzhu972/counter
+git clone -b ee8 https://github.com/nzhu972/counter
 ~~~
 2- Generate war file:
 ~~~

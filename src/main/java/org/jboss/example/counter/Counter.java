@@ -17,7 +17,7 @@ import org.apache.logging.log4j.Logger;
 
 /**
  *
- * @author
+ * @author  Stan Silvert
  */
 public class Counter implements Serializable {
     public static final Logger LOG = LogManager.getLogger(Counter.class);
